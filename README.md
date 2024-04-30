@@ -37,9 +37,8 @@ For Demo purpose UI test cases are created on [advantageonlineshopping.com](http
 Playwright framework requires [Node.js](https://nodejs.org/) v14+ to run.
 
 The Playwright framework requires Node.js v14+ to run.
-Code from GitHub needs to be downloaded: https://github.com/Mano-labs/VSCode-playwright/archive/refs/heads/master.zip
+Code from GitHub needs to be downloaded: https://github.com/Mano-labs/Rakevet-Israel.git
 
- or cloned using the git command: https://github.com/Mano-labs/VSCode-playwright.git
 
 installing the playwright: 
 npm init playwright@latest
@@ -96,3 +95,6 @@ export default class ExcelConstants {
 Open a file explorer or a terminal/command prompt and navigate to the test-results/results/ directory within your project.
 Locate the index.html file in this directory.
 
+=======
+# Rakevet-Israel
+>>>>>>> 2284489943a5bafa48485b352cd5bee0a614b5e7
