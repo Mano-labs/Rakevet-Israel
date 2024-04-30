@@ -1,4 +1,4 @@
-# playwright-sample-project
+# playwright-rakevet-israel
 
 ## **Overview:**
 
